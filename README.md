@@ -1,6 +1,6 @@
 # Repository Setup for Ionic Project with Yarn and Angular
 
-name: Ionic Project CI/CD
+name: Ionic tp estem Project CI/CD
 
 on:
   push:
